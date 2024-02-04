@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:weather_api/cubits/get_weather_cubit/get_weather_cubit.dart';
 import 'package:weather_api/cubits/get_weather_cubit/get_weather_states.dart';
-import 'package:weather_api/models/weather_model.dart';
 import 'package:weather_api/screens/search_screen.dart';
 import 'package:weather_api/widgets/no_weather_body.dart';
 import 'package:weather_api/widgets/weather_info_body.dart';
